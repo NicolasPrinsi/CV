@@ -1,0 +1,49 @@
+.left{
+    background-color: rgb(61, 58, 88);
+    width:30%;
+    position: sticky;
+    height: 1066px;
+    display:inline-block;
+    border: 2px solid white;
+    padding: auto;
+    margin: auto;
+}
+.right{
+    position: sticky;
+    background-color: rgb(61, 58, 88);
+    width:69%;
+    height: 1066px;
+    display: inline-block;
+    border: 2px solid white;
+    padding: auto;
+    margin: auto;
+}
+main{
+    display: flex;
+    background-color: rgb(37, 31, 90);
+    margin: auto;
+    padding: 10px 10px;
+    max-width: 816px;
+    max-height: 1066px;
+    text-align: center;
+}
+body{
+    text-align: center;
+    color: white;
+}
+
+.datos, span{
+    display: block;
+    text-align: left;
+}
+
+img {
+    display: block;
+    max-width:100%;
+    max-height:50%;
+    width: auto;
+    height: auto;
+    text-align: center;
+    border: 2px solid white;
+    
+  }
